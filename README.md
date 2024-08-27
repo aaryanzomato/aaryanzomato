@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaryan Ahuja (@aaryanzomato)
 - 👀 I’m interested in Data Science and ML.
-- 🌱 I’m a new joinee in the Zomato Data Science team.
+- 🌱 I’m a fresher in the Zomato Data Science team.
 - 📫 You can reach me at aaryan.ahuja@zomato.com
 - 😄 Pronouns: He/Him
 
